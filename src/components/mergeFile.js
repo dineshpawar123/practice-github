@@ -2,7 +2,10 @@ import React from 'react'
 
 function MergeFile() {
   return (
-    <div>MergeFile</div>
+    <div>
+        <div>MergeFile</div>
+        <div>commit msg 1 added in feature/merge</div>
+    </div>
   )
 }
 
