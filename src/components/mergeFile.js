@@ -9,6 +9,8 @@ function MergeFile() {
 
 
         <div>commit msg 3 added in feature/merge</div>
+
+        <div>commit msg 4 added in feature/merge</div>
     </div>
   )
 }
